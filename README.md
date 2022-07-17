@@ -1,6 +1,5 @@
 ## Hello! I'm Samuel Andrade, Welcome to my profile!
 - 🇧🇷 I'm from Brazil 
-- 💻 Web Developer at Ecosis
 - 📚 Studying System's Analysis and Development 
 
 <div>
