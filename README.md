@@ -1,25 +1,33 @@
 ## Hello! I'm Samuel Andrade, Welcome to my profile!
 - 🇧🇷 I'm from Brazil 
-- 📚 Studying System's Analysis and Development 
+- 📚 Graduated in System's Analysis and Development 
 
-<div>
-<a href="https://github.com/samuelandrade21">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelandrade21&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelandrade21&layout=compact&langs_count=16&theme=cobalt"/>  
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">My Skills <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-   </div>
+<p align="left"> 
+   IT professional with a passion for challenges and innovation. Solid development experience, with expertise in ReactJS, React Native, JavaScript, C#, .NET, Docker and Ruby on Rails. Proficient in AWS, SQL Server and versed in agile methodologies (Scrum and Kanban).
+</p>
+
+<p align="left">
+  🦄 Languages: Javascript, C#, Python, Ruby
+</p>
+
+<p align="left">
+  💼 Tools: AWS, RabbitMQ, Apache Kafka
+</p>
+
+<p align="left">
+  💌 To contact me:  ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-andrade-646b12202/" alt="LinkedIn"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007042571745&locale=pt_BR" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/samuka_04/" alt="Instagram"/></a>
+</p>
     
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
   
